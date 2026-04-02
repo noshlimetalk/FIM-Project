@@ -1,1 +1,10 @@
+This project is a Linux-based file integrity Monitoring(FIM) system built on ubuntu that monitors critical system directoriess and detects unautharized changes in real time.
 
+The tool watches sensitive files and generates alerts when 
+
+- Files are modified
+-Permissions change
+-Ownership changes
+-Files are created
+
+This Project simulates a host-based intrusion detection system (HIDS) Similar to enterprise tools like tripwire or OSSEC
